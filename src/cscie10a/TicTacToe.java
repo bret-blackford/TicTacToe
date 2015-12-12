@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * @author M Bret Blackford   ID:20849347
- * CSCI E-10a  Fall 2015
+ * Harvard CSCI E-10a  Fall 2015
  * Unit 4 Problem Set  question [15]
  *
  */
